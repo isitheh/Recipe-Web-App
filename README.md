@@ -11,8 +11,9 @@ Clean, Build and Run The Project. The back end will run on localhost:8080
 === Front End Setup === 
 
 Import the 'add-recipe-app' folder/project into your Visual Studio Code (or any other prefered IDE or editor)
-In your cmd console or local console (in VS Code) run the following commands
-1. cd add-recipe-app
-2. npm start
+In your cmd console or local console (in VS Code) run the following commands in the Terminal or VSCode Terminal.
+1. Make sure you are in the React project directory (cd add-recipe-app)
+2. npm install react-scripts --save
+3. npm start
 Ensure the app builds successfully. Ensure the back end app is already running as above.
 The front end will run on localhost:3000 (or similar).
